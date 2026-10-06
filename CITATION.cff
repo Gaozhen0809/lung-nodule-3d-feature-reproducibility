@@ -6,15 +6,11 @@ title: "Independent recomputation of nine three-dimensional CT features for lung
 authors:
   - family-names: "Gao"
     given-names: "Zhen"
-    orcid: ""
-  - family-names: ""
-    given-names: ""
-    orcid: ""
 version: 1.0.0
 date-released: 2026-10-06
 identifiers:
   - type: doi
- value: "10.5281/zenodo.23192347"
+    value: "10.5281/zenodo.23192347"
 license: MIT
 repository-code: "https://github.com/Gaozhen0809/lung-nodule-3d-feature-reproducibility"
 keywords:
