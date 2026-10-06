@@ -16,7 +16,7 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.XXXXXXX"
 license: MIT
-repository-code: "https://github.com/[owner]/lung-nodule-3d-feature-reproducibility"
+repository-code: "https://github.com/Gaozhen0809/lung-nodule-3d-feature-reproducibility"
 keywords:
   - lung nodule
   - radiomics
