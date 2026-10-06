@@ -58,7 +58,11 @@ Batch (loop over a manifest):
 
 ## Citation
 
-[Replace with the manuscript citation; DOI to be added after Zenodo deposition.]
+## Citation
+
+If you use this software, please cite it as:
+
+Gao Z. Independent recomputation of nine three-dimensional CT features for lung nodules. Zenodo; 2026. doi:10.5281/zenodo.23192347
 
 ## License
 
